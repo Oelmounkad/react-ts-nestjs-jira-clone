@@ -1,0 +1,27 @@
+.task-list{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 21%;
+}
+
+.task-list-wrapper{
+    padding: 4px;
+}
+.task-list-state{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+.task-list-state-name{
+    flex: 2;
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.task-list-state-options{
+    flex: 1;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    cursor: pointer;
+}

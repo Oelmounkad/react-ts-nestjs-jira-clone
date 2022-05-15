@@ -1,0 +1,21 @@
+.task-wrapper{
+    border: 1px solid #E0E0E0;
+    border-radius: 11px;
+    padding: 10px;
+    margin-bottom: 6px;
+    cursor: pointer;
+}
+.task-name-wrapper{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.task-name{
+    margin-left: 6px;
+}
+.task-tags-wrapper{
+    display: flex;
+    gap: 5px;
+}
