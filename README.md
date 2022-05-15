@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Application
+
+µYou can access the application at https://oelmounkad-jira-clone.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
