@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Application
 
-µYou can access the application at https://oelmounkad-jira-clone.netlify.app/
+You can access the application at https://oelmounkad-jira-clone.netlify.app/
 
 ## Available Scripts
 
