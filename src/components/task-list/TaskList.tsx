@@ -26,7 +26,10 @@ export const TaskListComponent = (props: {
       ))}
       </div>
       <div className="add-task-wrapper">
-        
+        <div className="add-task-flex">
+        <FontAwesomeIcon icon={faCirclePlus}></FontAwesomeIcon>
+        <div className="add-task">Add Task</div> 
+        </div>
       </div>
       
     </div>

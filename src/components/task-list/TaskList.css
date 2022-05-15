@@ -25,3 +25,28 @@
     gap: 10px;
     cursor: pointer;
 }
+
+.add-task-wrapper{
+    padding: 4px;
+}
+
+.add-task-flex{
+    border: 1px solid #E0E0E0;
+    background-color: #F5F5F5;
+    border-radius: 11px;
+    padding: 10px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    padding: 13px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.add-task-flex:hover {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+.add-task{
+    margin-left: 6px;
+    font-weight: bold;
+}
